@@ -5,6 +5,13 @@ Reinhart Timothy Antonio Siregar
 
 Prodi Teknologi Informasi
 
+Login Admin:
+username = adminUser
+password = adminPass
+Login Member:
+username = mem1User
+password = mem1Pass
+((notes: angka 1 dapat diganti angka 1 sampai 7))
 
 Disclaimer: Program ini terkoneksi dengan database yang terdapat dalam local host. Untuk menggunakan program ini, silakan gunakan database yang sudah disediakan 
 dan lakukan perubahan pada deklarasi sql connection.
