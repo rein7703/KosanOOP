@@ -5,6 +5,8 @@ Reinhart Timothy Antonio Siregar
 
 Prodi Teknologi Informasi
 
+Nama App: Kosan OOP
+
 Login Admin:
 
 username = adminUser
