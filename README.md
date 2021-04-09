@@ -22,7 +22,7 @@ password = mem1Pass
 
 
 Disclaimer: Program ini terkoneksi dengan database yang terdapat dalam local host. Untuk menggunakan program ini, silakan gunakan database yang sudah disediakan 
-dan lakukan perubahan pada deklarasi sql connection.
+dan lakukan perubahan pada deklarasi sql connection. Database yang saya gunakan sudah saya lampirkan pada folder 'Database'.
 
 Contoh:
 
